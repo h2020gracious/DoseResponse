@@ -1,0 +1,10 @@
+Package: IntPROAST61v5
+Type: Package
+Title: Dose-response modelling for continuous data
+Version: 1.0
+Date: 2016-01-20
+Author: Georgia Tsiliki
+Maintainer: Georgia Tsiliki <gtsiliki@central.ntua.gr>
+Depends: jsonlite,RCurl,png,proast61.5,assertive
+Description: Implementation of PROAST61.5 dose-response models for continuous and categorical data scenarios.
+License: GPL-2

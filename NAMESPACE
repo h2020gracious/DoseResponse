@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(RCurl)
+import(png)
+import(proast61.5)
+import(assertive)
+import(jsonlite)
